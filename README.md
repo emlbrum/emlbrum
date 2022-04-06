@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @emlbrum
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning C
+- 📫 You can reach me on emlbrum99@hotmail.com
